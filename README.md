@@ -1,6 +1,6 @@
 # LocalAdminRemoval
 Contact:  
-- Just add an issue if you would like this tinkered with at all or adjusted slightly for your use case
+- Just add an issue if you would like this tinkered with at all or adjusted slightly for your use case  
 
 Requirements:  
 - WinRM enabled if you want to run remotely  
