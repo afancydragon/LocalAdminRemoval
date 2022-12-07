@@ -15,7 +15,7 @@ $Account = Get-Credential
             Remove-LocalGroupMember -Group "Administrators" -Member $_.Name.Remove(0,$_.length+1)
         }
 
-        #Disables ALL local accounts - this could interfere if someone has very specific setups where they have mulitple local accounts
+        #Disables ALL local accounts - this could interfere if someone has very specific setups where they have multiple local accounts
         Get-LocalUser | Disable-LocalUser
         
         #Removing old account, creating, and Enabling if for some reason it is disabled
