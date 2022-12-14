@@ -1,7 +1,4 @@
 # LocalAdminRemoval
-
-TBD - more explanaions on how this works
-
 Contact:  
 - Just add an issue if you would like this tinkered with at all or adjusted slightly for your use case  
 
