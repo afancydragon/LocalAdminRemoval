@@ -16,3 +16,4 @@ Does the following:
   - Removes all users not in the AccountExceoptionlist.csv
 - Disables ALL LOCAL USERS - Depending on computer and enviroment, this could be problematic, check computers/users affected if this is a concern.  
 - Adds all users stated in the addaccountlist.csv if this command is invoked as an admin/domain admin it should search AD and add them without issue.        
+- resetting passwords after some time will be needed, there is a way to adjust this though, it wasn't needed in my enviroment at the time of creation.
